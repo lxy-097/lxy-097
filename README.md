@@ -13,7 +13,7 @@
 ## 💡 Projects I’ve ~Definitely~ Broken and Fixed
 ### 🔁 Code-to-User-Story Agentic Converter (MCP + Gemini)
 - Converts entire code repositories into human-readable user stories using Modular Code Protocols and Gemini.
-- Pipeline: Analyze repo ➡️ generate story with Gemini Model ➡️ render HTML ➡️ HTML2PDF ➡️ Boom, you got docs.
+- Pipeline: Analyze repo ➡ generate story with Gemini Model ➡ render HTML ➡ HTML2PDF ➡ Boom, you got docs.
 - For real-world teams who love legacy code but hate explaining it.
 
 ### 🧠 AI chatbot Multi-Agent workflow for ITSM (n8n + Gemini + RAG)
